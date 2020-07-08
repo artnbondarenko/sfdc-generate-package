@@ -1,6 +1,6 @@
 {
-  "name": "sfdc-generate-package",
-  "version": "2.9.0",
+  "name": "sfdc-generate-package-t",
+  "version": "2.9.2",
   "description": "generate package.xml from source",
   "keyword": [
     "salesforce",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/scolladon/sfdc-generate-package.git"
+    "url": "https://github.com/artnbondarenko/sfdc-generate-package.git"
   },
   "author": "Sébastien Colladon <colladonsebastien@gmail.com>",
   "license": "MIT",
